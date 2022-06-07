@@ -1,0 +1,72 @@
+# Triceratops
+
+**Triceratops** was a genus of herbivorous chasmosaurine ceratopsid dinosaur that first appeared during the late Maastrichtian stage of the Late Cretaceous period, about 68 million years ago in what is now North America. It is one of the last-known non-avian dinosaur genera, and became extinct in the Cretaceous–Paleogene extinction event 66 million years ago. The name Triceratops, which literally means 'three-horned face', is derived from the Greek words trí- (τρί-) meaning 'three', kéras (κέρας) meaning 'horn', and ṓps (ὤψ) meaning 'face'.
+
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Triceratops_and_Leptoceratops.jpg" alt="Triceratops and Leptoceratops.jpg" width="250" hspace="5">Bearing a large bony frill, three horns on the skull, and a large four-legged body, exhibiting convergent evolution with rhinoceroses and bovines, Triceratops is one of the most recognizable of all dinosaurs and the most well-known ceratopsid. It was also one of the largest, up to 8 meters (26.2 ft) long and 9 metric tons (9.9 short tons) in body mass. It shared the landscape with and was most likely preyed upon by Tyrannosaurus, though it is less certain that two adults did battle in the fanciful manner often depicted in museum displays and popular images. The functions of the frills and three distinctive facial horns on its head have long inspired debate. Traditionally, these have been viewed as defensive weapons against predators. More recent interpretations find it probable that these features were primarily used in species identification, courtship, and dominance display, much like the antlers and horns of modern ungulates.
+
+Triceratops was traditionally placed within the "short-frilled" ceratopsids, but modern cladistic studies show it to be a member of the Chasmosaurinae which usually have long frills. Two species, T. horridus and T. prorsus, are considered valid today, from the seventeen species that have ever been named. Research published in 2010 concluded that the contemporaneous Torosaurus, a ceratopsid long regarded as a separate genus, represents Triceratops in its mature form. This view has been disputed; further data is needed to settle the debate.
+
+Triceratops has been documented by numerous remains collected since the genus was first described in 1889 by American paleontologist Othniel Charles Marsh. Specimens representing life stages from hatchling to adult have been found. As the archetypal ceratopsid, Triceratops is one of the most popular dinosaurs, and has been featured in film, postal stamps, and many other types of media. 
+
+
+## Size
+
+Triceratops is estimated to have reached about 7.9 to 9 meters (25.9 to 29.5 ft) in length, 2.9 to 3.0 meters (9.5 to 9.8 ft) in height, and 6.1 to 12.0 metric tons (6.7 to 13.2 short tons) in weight. The most distinctive feature is their large skull, among the largest of all land animals. The largest-known skull (specimen MWC 7584, formerly BYU 12183) is estimated to have been 2.5 meters (8.2 ft) in length when complete, and could reach almost a third of the length of the entire animal. A specimen of T. horridus named Kelsey measured 7.3 meters (24 ft) long with a 2-meter (6.5 ft) skull, stood about 2.3 meters (7.5 ft) tall, and was estimated by the Black Hills institute to weight nearly 6 metric tons (6.6 short tons). A Triceratops 8 meters (26.2 ft) long has been estimated by Gregory S. Paul to have massed 9 metric tons (9.9 short tons). 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Big_John_triceratops_sold_at_auction_in_Paris.jpg/1200px-Big_John_triceratops_sold_at_auction_in_Paris.jpg" alt="Big John triceratops sold at auction in Paris.jpg" width="450">
+
+## Skull
+
+Like all chasmosaurines, Triceratops had a large skull relative to its body size. The front of the head was equipped with a large beak in front of the teeth. The core of the top beak was formed by a special rostral bone. Behind it, the premaxillae bones were located, embayed from behind by very large circular nostrils. In chasmosaurines, the premaxillae met on their midline in a complex bone plate, the rear edge of which was reinforced by the "narial strut". From the base of this strut, a triangular process jutted out into the nostril. Triceratops differs from most relatives in that this process was hollowed out on the outer side. Behind the toothless premaxilla, the maxilla bore thirty-six to forty tooth positions, in which three to five teeth per position were vertically stacked. The teeth were closely appressed, forming a "dental battery" curving to the inside. The skull bore a single horn on the snout, above the nostrils. In Triceratops, the nose horn is sometimes recognisable as a separate ossification, the epinasal.
+
+The skull also featured a pair of "brow" or supraorbital horns approximately 1 meter (3.3 ft) long, with one above each eye. The jugal bones pointed to below at the rear sides of the skull and were capped by separate epijugals. With Triceratops these were not particularly large and sometimes touched the quadratojugals. The bones of the skull roof were fused. By a folding of the frontal bones, a "double" skull roof was created. In Triceratops, some specimens show a fontanelle, an opening in the upper roof layer. The cavity between the layers invaded the bone cores of the brow horns.
+
+At the rear of the skull, the outer squamosal bones and the inner parietal bones grew into a relatively short, bony frill, adorned with epoccipitals in young specimens. These were low triangular processes on the frill edge, representing separate skin ossifications or osteoderms. Typically, with Triceratops specimens there are two epoccipitals present on each parietal bone, with an additional central process on their border. Each squamosal bone had five processes. Most other ceratopsids had large parietal fenestrae, openings, in their frills, but those of Triceratops were noticeably solid, unless the genus Torosaurus represents mature Triceratops individuals. Under the frill, at the rear of the skull, a huge occipital condyle, up to 106 millimeters (4.2 in) in diameter, connected the head to the neck.
+
+The lower jaws were elongated and met at their tips in a shared epidentary bone, the core of the toothless lower beak. In the dentary bone, the tooth battery curved to the outside to meet the battery of the upper jaw. At the rear of the lower jaw, the articular bone was exceptionally wide, matching the general width of the jaw joint. T. horridus can be distinguished from T. prorsus by having a shallower snout.
+
+The largest Triceratops skull ever found was discovered in 1992 and excavated in 2003 in Dawson County, Montana, in the Hell Creek Formation. It is a 65-million-year-old male Triceratops skull, 9.2 feet (2.8 m) long, 5.2 feet (1.6 m) high and 4.6 feet (1.4 m) wide and weighing over 1,300 lb (600 kg). It has been dubbed 'Dragon King' and is understood to be the most expensive skull to ever trade privately 
+
+
+## Dentition and diet
+
+Triceratops were herbivorous, and because of their low slung head, their primary food was probably low growing vegetation, although they may have been able to knock down taller plants with their horns, beak, and bulk. The jaws were tipped with a deep, narrow beak, believed to have been better at grasping and plucking than biting.
+
+Triceratops teeth were arranged in groups called batteries, of 36 to 40 tooth columns in each side of each jaw, with 3 to 5 stacked teeth per column, depending on the size of the animal. This gives a range of 432 to 800 teeth, of which only a fraction were in use at any given time (Tooth replacement was continuous throughout the life of the animal). They functioned by shearing in a vertical to near-vertical orientation. The great size and numerous teeth of Triceratops suggests that they ate large volumes of fibrous plant material, with some researchers suggesting palms and cycads, and others suggesting ferns, which then grew in prairies.
+
+
+## Functions of the horns and frill
+
+There has been much speculation over the functions of Triceratops' head adornments. The two main theories have revolved around use in combat and in courtship display, with the latter now thought to be the most likely primary function.
+
+Early on, Lull postulated that the frills may have served as anchor points for the jaw muscles to aid chewing by allowing increased size and thus power for the muscles. This has been put forward by other authors over the years, but later studies do not find evidence of large muscle attachments on the frill bones.
+
+Triceratops were long thought to have used their horns and frills in combat with predators such as Tyrannosaurus, the idea being discussed first by Charles H. Sternberg in 1917 and 70 years later by Robert Bakker. There is evidence that Tyrannosaurus did have aggressive head-on encounters with Triceratops, based on partially healed tyrannosaur tooth marks on a Triceratops brow horn and squamosal; the bitten horn is also broken, with new bone growth after the break. Which animal was the aggressor is not known. Since the Triceratops wounds healed, it is most likely that the Triceratops survived the encounter. Paleontologist Peter Dodson estimates that in a battle against a bull Triceratops, the Triceratops had the upper hand and would successfully defend itself by inflicting fatal wounds to the Tyrannosaurus using its sharp horns. Tyrannosaurus is also known to have fed on Triceratops, as shown by a heavily tooth-scored Triceratops ilium and sacrum.
+
+In addition to combat with predators using horns, Triceratops are popularly shown engaging each other in combat with horns locked. While studies show that such activity would be feasible, if unlike that of present-day horned animals, there is disagreement about whether they did so. Although pitting, holes, lesions, and other damage on Triceratops skulls (and the skulls of other ceratopsids) are often attributed to horn damage in combat, a 2006 study finds no evidence for horn thrust injuries causing these forms of damage (for example, there is no evidence of infection or healing). Instead, non-pathological bone resorption, or unknown bone diseases, are suggested as causes. A newer study compared incidence rates of skull lesions and periosteal reaction in Triceratops and Centrosaurus and showed that these were consistent with Triceratops using its horns in combat and the frill being adapted as a protective structure, while lower pathology rates in Centrosaurus may indicate visual rather than physical use of cranial ornamentation, or a form of combat focused on the body rather than the head. The frequency of injury was found to be 14% in Triceratops. The researchers also concluded that the damage found on the specimens in the study was often too localized to be caused by bone disease. Histological examination reveals that the frill of Triceratops is composed of fibrolamellar bone which contains fibroblasts that play a critical role in wound healing, and are capable of rapidly depositing bone during remodeling.
+
+
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/UCMP_Triceratops_right.JPG/1200px-UCMP_Triceratops_right.JPG" alt="UCMP Triceratops right.JPG" width="500" hspace="10"> 
+_Left: Juvenile and adult skulls—the juvenile skull is about the size of an adult human head._
+<br>
+
+One skull was found with a hole in the jugal bone, apparently a puncture wound sustained while the animal was alive, as indicated by signs of healing. The hole has a diameter close to that of the distal end of a Triceratops horn. This, and other apparent healed wounds in the skulls of ceratopsians, has been cited as evidence of non-fatal intraspecific competition in these dinosaurs. Another specimen, referred to as "Big John" has a similar fenestra to the squamosal caused by what appears to be another Triceratops horn, and the squamosal bone shows signs of significant healing, further vindicating the hypothesis that this ceratopsian used its horns for intra-specific combat.
+
+The large frill also may have helped to increase body area to regulate body temperature. A similar theory has been proposed regarding the plates of Stegosaurus, although this use alone would not account for the bizarre and extravagant variation seen in different members of the Ceratopsidae, which would rather support the sexual display theory.
+
+The theory that frills functioned as a sexual display was first proposed by Davitashvili in 1961 and has gained increasing acceptance since. Evidence that visual display was important, either in courtship or other social behavior, can be seen in the horned dinosaurs differing markedly in their adornments, making each species highly distinctive. Also, modern living creatures with such displays of horns and adornments use them similarly. A 2006 study of the smallest Triceratops skull, ascertained to be a juvenile, shows the frill and horns developed at a very early age, predating sexual development and thus probably important for visual communication and species recognition in general. The use of the exaggerated structures to enable dinosaurs to recognize their own species has been questioned, as no such function exists for such structures in modern species.
+
+## Growth and ontogeny
+
+In 2006, the first extensive ontogenetic study of Triceratops was published in the journal Proceedings of the Royal Society. The study, by John R. Horner and Mark Goodwin, found that individuals of Triceratops could be divided into four general ontogenetic groups: babies, juveniles, subadults, and adults. With a total number of 28 skulls studied, the youngest was only 38 centimeters (15 in) long. Ten of the 28 skulls could be placed in order in a growth series with one representing each age. Each of the four growth stages were found to have identifying features. Multiple ontogenetic trends were discovered, including the size reduction of the epoccipitals, development and reorientation of postorbital horns, and hollowing out of the horns. 
+
+<br>
+<br>
+
+This article uses material from the Wikipedia article [Triceratops](https://en.wikipedia.org/wiki/Triceratops), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")
+
+<br>
+
+[Back to dino main page](/../dinos.md)
+
+[Back to start page](/../../index.md)

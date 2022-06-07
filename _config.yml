@@ -1,0 +1,11 @@
+theme: jekyll-theme-architect
+title: Demo Content
+show_downloads: false
+github:
+  zip_url: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Dinosars_Wikipedia_Content_PDFs.zip
+  pdf_url_brontosaurus: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Brontosaurus_Wikipedia_Article.pdf
+  pdf_url_dinosaurs: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Dinosaur_Wikipedia_Article.pdf
+  pdf_url_stegoraurus: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Stegosaurus_Wikipedia_Article.pdf
+  pdf_url_triceratops: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Triceratops_Wikipedia_Article.pdf
+  pdf_url_tyrannosaurus: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Tyrannosaurus_Wikipedia_Article.pdf
+  pdf_url_velociraptor: https://github.com/christina-niegel/demo-docs/raw/gh-pages/content-pdfs/Velociraptor_Wikipedia_Article.pdf
