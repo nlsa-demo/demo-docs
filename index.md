@@ -6,7 +6,7 @@ On this page we provide a couple of documents and texts that can be used for a d
 
 ### Usage and licence
 
-Please note that the provided content is released under the [Creative Commons Attribution-Share-Alike License 3.0]("https://creativecommons.org/licenses/by-sa/3.0/") and uses material from several [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) articles. On each page the origin Wikipedia source is referenced and linked.
+Please note that the provided content is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/) and uses material from several [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) articles. On each page the origin Wikipedia source is referenced and linked.
 <br>
 <br>
 
