@@ -106,7 +106,7 @@ The smallest dinosaur known is the bee hummingbird, with a length of only 5 cent
 <br>
 <br>
 
-_This article uses material from the Wikipedia article [Dinosaur](https://en.wikipedia.org/wiki/Dinosaur), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+_This article uses material from the Wikipedia article [Dinosaur](https://en.wikipedia.org/wiki/Dinosaur), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 
 <br>

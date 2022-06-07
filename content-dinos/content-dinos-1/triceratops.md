@@ -63,7 +63,7 @@ In 2006, the first extensive ontogenetic study of Triceratops was published in t
 <br>
 <br>
 
-This article uses material from the Wikipedia article [Triceratops](https://en.wikipedia.org/wiki/Triceratops), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")
+This article uses material from the Wikipedia article [Triceratops](https://en.wikipedia.org/wiki/Triceratops), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 <br>
 

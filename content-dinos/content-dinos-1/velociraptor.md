@@ -43,7 +43,7 @@ Examinations of the endocranium of Velociraptor indicate that it was able to det
 <br>
 
 
-_This article uses material from the Wikipedia article [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+_This article uses material from the Wikipedia article [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 <br>
 

@@ -58,7 +58,7 @@ A 2002 report used a mathematical model (validated by applying it to three livin
 
 
 
-_This article uses material from the Wikipedia article [Tyrannosaurus](https://en.wikipedia.org/wiki/Tyrannosaurus), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+_This article uses material from the Wikipedia article [Tyrannosaurus](https://en.wikipedia.org/wiki/Tyrannosaurus), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 <br>
 

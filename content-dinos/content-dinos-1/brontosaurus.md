@@ -26,7 +26,7 @@ The limb bones were also very robust. The arm bones are stout, with the humerus 
 <br>
 <br>
 
-_This article uses material from the Wikipedia article [Brontosaurus](https://en.wikipedia.org/wiki/Brontosaurus), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+_This article uses material from the Wikipedia article [Brontosaurus](https://en.wikipedia.org/wiki/Brontosaurus), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 <br>
 
